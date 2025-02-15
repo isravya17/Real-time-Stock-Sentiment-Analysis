@@ -4,11 +4,11 @@
 
 This project analyzes real-time sentiment from stock news headlines for major tech companies—Apple (AAPL), Amazon (AMZN), Google (GOOG), NVIDIA (NVDA), and Tesla (TSLA)—to understand its impact on stock price fluctuations. By correlating sentiment scores with actual stock movements, the project aims to provide insights that aid investment decisions.
 
-## **Data Sources:**  
+## **Data Sources**  
 - **News Headlines:** Scraped from financial news websites.  
 - **Stock Prices:** Fetched using Yahoo Finance API for real-time and historical data.  
 
-## **Approach:**  
+## **Approach**  
 
 1. **Data Collection:**  
    - Scraped news headlines using **BeautifulSoup** and **Requests**.  
